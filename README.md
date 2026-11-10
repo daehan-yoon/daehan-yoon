@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Daehan Yoon</h1>
+<p align="center">Pusan National University</p>
 
 <!--
-**daehan-yoon/daehan-yoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
+Add a short introduction about your background and current focus.
 
-Here are some ideas to get you started:
+## Research Interests
+- Your first research interest
+- Your second research interest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Selected Projects
+- [Project name](URL) — Briefly describe the problem and your contribution.
+
+## Publications
+- Paper title · Venue, Year · [Paper](URL) · [Code](URL)
 -->
